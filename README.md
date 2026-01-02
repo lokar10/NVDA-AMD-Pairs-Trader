@@ -55,8 +55,7 @@ The following charts illustrate the bot's decision-making process. The **Top Cha
 
 ---
 
-## 📜 License
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+
 
 ## ⚠️ Disclaimer
 
