@@ -51,7 +51,7 @@ The following charts illustrate the bot's decision-making process. The **Top Cha
    pip install yfinance statsmodels pandas matplotlib
 3. **Run the script:**
    ```bash
-   python main.py
+   Pairs_Bot_NVIDIA_vs_AMD.ipynb
 
 ---
 
